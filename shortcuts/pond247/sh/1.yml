@@ -1,0 +1,7 @@
+title: Symbol Hound
+description: ""
+tags:
+- web search
+examples:
+  bash $?: Searches for "bash $?" preserving the symbols
+tests: []

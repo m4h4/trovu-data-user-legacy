@@ -1,0 +1,7 @@
+title: Deezer
+description: ""
+tags:
+- deezer
+examples:
+  query: artist, title, album
+tests: []

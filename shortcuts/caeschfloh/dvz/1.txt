@@ -1,0 +1,1 @@
+http://www.dvz.de/suche.html?q={%query}&submit.x=0&submit.y=0&tx_solr%5Bsort%5D=

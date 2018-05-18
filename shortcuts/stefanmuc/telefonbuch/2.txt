@@ -1,0 +1,1 @@
+http://www.dastelefonbuch.de/?pid=OpenSearch&cmd=search&kw={%name}&ort={%ort}&la=de

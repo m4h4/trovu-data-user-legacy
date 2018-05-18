@@ -1,0 +1,7 @@
+title: Drupal Module Search
+description: ""
+tags:
+- programming
+examples:
+  views: Search modules on drupal.org for "views"
+tests: []

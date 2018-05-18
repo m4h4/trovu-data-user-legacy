@@ -1,0 +1,1 @@
+http://www.example.com/{%datum|type=date|output=Y-m}/#{%datum|type=date|output=Y-m-d}

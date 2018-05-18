@@ -1,0 +1,1 @@
+http://pgpkeys.pca.dfn.de/pks/lookup?search={%query}

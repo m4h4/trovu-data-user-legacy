@@ -1,0 +1,1 @@
+http://pdb.finkproject.org/pdb/browse.php?name={%query}

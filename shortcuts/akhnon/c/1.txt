@@ -1,0 +1,1 @@
+http://www.cineman.ch/search/global/index.php?search={%query}&searchkino=&searchtv=&searchevents=&searchshop=&searchall=yes

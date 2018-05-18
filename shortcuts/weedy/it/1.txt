@@ -1,0 +1,1 @@
+http://it.lingostudy.de/exec/?S={%query}

@@ -1,0 +1,1 @@
+http://www.wetter.com/suche/?q={%query}&t=wetter&o=location

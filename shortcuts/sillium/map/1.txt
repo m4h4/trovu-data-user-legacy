@@ -1,0 +1,1 @@
+http://maps.google.com/maps?hl={$language}&q={%Ort}%2C%20Germany

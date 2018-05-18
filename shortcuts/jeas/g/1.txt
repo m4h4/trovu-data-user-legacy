@@ -1,0 +1,1 @@
+http://www.google.de/m?mrestrict=xhtmlonly&eosr=on&ct=fsh&q={%query}

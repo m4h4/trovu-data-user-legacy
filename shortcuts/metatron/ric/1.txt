@@ -1,0 +1,1 @@
+http://www.ricardo.ch/search/search.asp?txtSearch={%query}&Catg=1&InTitleAndDesc=1&IsNavBarSearch=1

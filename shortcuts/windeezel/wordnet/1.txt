@@ -1,0 +1,1 @@
+http://wordnet.princeton.edu/perl/webwn?s={%query}&sub=Search+WordNet&o2=&o0=1&o7=&o5=&o1=1&o6=&o4=&o3=&h=

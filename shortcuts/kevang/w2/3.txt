@@ -1,0 +1,1 @@
+http://texttheater.net/wikdic?source={%sourcelang}&target={%targetlang}&term={%term}

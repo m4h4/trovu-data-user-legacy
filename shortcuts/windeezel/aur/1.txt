@@ -1,0 +1,1 @@
+http://aur.archlinux.org/packages.php?O=0&L=0&C=0&K={%query}&SeB=nd&SB=n&SO=a&PP=25&do_Search=Go

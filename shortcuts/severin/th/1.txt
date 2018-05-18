@@ -1,0 +1,1 @@
+http://kataloge.thulb.uni-jena.de/DB=1/SET=1/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM={%query}

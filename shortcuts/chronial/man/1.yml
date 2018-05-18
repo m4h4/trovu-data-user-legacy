@@ -1,0 +1,9 @@
+title: Ubuntu Man Pages
+description: ""
+tags:
+- programming
+- unix
+- documentation
+examples:
+  ls: Lookup man page for "ls"
+tests: []

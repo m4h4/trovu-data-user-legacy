@@ -1,0 +1,1 @@
+http://reiseauskunft.bahn.de/bin/query.exe/d?S=hamburg&Z={%Ziel}&T={%Zeit}&D={%Datum}&start=1&REQ0Tariff_TravellerAge.1=30&REQ0Tariff_TravellerReductionClass.1=4&REQ0Tariff_Class=2&existOptimizePrice=0

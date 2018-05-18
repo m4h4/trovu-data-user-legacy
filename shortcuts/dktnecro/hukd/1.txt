@@ -1,0 +1,1 @@
+http://hukd.mydealz.de/search?action=search&type=0&keywords={%query}

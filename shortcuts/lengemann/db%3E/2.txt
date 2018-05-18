@@ -1,0 +1,1 @@
+http://reiseauskunft.bahn.de/bin/query.exe/d?S=celle&Z={%Ziel}&T={%Zeit}&start=1&REQ0Tariff_TravellerReductionClass.1=4

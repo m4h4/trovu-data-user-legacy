@@ -1,0 +1,1 @@
+http://it.wikipedia.org/w/index.php?search={%query}&title=Speciale%3ARicerca

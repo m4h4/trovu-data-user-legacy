@@ -1,0 +1,1 @@
+http://gateway.isiknowledge.com/gateway/Gateway.cgi?GWVersion=2&amp;SrcApp=open_search&amp;SrcAuth=IEW&amp;DestApp=UA&amp;ServiceName=TransferToWoS&amp;DestLinkType=GeneralSearchSummary&amp;Func=Links&amp;topic={%query}

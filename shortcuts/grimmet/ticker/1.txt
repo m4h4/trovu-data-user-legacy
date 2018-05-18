@@ -1,0 +1,1 @@
+http://www.iphone-ticker.de/?s={%query}&x=0&y=0

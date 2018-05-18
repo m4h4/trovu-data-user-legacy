@@ -1,0 +1,1 @@
+https://svn.jimdo-server.com/trac/ticket/{%query}

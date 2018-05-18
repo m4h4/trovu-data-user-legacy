@@ -1,0 +1,1 @@
+http://www2.dastelefonbuch.de/?bi=29&kw={%number|encoding=iso-8859-1}&ci={%query|encoding=iso-8859-1}&cmd=search

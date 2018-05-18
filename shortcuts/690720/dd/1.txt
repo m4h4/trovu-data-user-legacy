@@ -1,0 +1,1 @@
+https://www.google.de/search?hl=de&lr=lang_de&q={%query}

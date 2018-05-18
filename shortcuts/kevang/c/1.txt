@@ -1,0 +1,1 @@
+/commands?keyword_op=%3D&keyword=&title_op=contains&title={%query}&namespace=&tags=

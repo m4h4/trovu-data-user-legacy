@@ -1,0 +1,1 @@
+http://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?protocol=http:

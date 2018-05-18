@@ -1,0 +1,1 @@
+http://www.videocopilot.net/blog/?s={%query}

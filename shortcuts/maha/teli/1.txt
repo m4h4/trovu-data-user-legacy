@@ -1,0 +1,1 @@
+http://www4.dastelefonbuch.de/?cmd=search&kw={%Nummer}

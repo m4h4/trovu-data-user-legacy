@@ -1,0 +1,1 @@
+https://intra.zhaw.ch/nc/intranet-suche.html?tx_zhaweurospider_pi1[keywords]={%query}

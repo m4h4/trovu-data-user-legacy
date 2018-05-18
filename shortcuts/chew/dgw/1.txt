@@ -1,0 +1,1 @@
+http://www.guildwiki.de/wiki/Special:Search?search={%query}&go=Go

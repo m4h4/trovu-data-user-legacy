@@ -1,0 +1,1 @@
+http://www.panoccitan.org/diccionari.aspx?diccion={%paraula}&lenga=oc

@@ -1,0 +1,1 @@
+http://labenz.texttheater.de/suche.php?sb={%query}

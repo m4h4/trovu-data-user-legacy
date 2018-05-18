@@ -1,0 +1,1 @@
+http://dblp.org/search?q={%query}

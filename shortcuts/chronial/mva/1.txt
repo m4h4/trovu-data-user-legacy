@@ -1,0 +1,1 @@
+http://efa.mvv-muenchen.de/mvv/XSLT_DM_REQUEST?language=de&anyType_dm=stop&type_dm=any&anyObjFilter_dm=2&sessionID=0&name_dm={%Haltestelle}

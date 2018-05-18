@@ -1,0 +1,1 @@
+https://www.google.de/#q={%query}&tbs=li:1&num=100

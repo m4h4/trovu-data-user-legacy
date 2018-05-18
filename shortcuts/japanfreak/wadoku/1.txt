@@ -1,0 +1,1 @@
+http://www.wadoku.de/index.jsp?search=search&phrase={%Suchwort}&search=suche

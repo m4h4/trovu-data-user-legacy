@@ -1,0 +1,1 @@
+http://www.local.ch/de/q/{%name}/{%ort}.html

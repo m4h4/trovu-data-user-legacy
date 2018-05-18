@@ -1,0 +1,1 @@
+http://reiseauskunft.bahn.de/bin/query.exe/d?S=Mainz&Z={%Ziel}&start=1

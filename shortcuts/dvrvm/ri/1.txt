@@ -1,0 +1,1 @@
+http://www.lib4ri.ch/site/search/search.php?search={%query}&x=56&y=29&type=articles

@@ -1,0 +1,10 @@
+title: mikrotik routerboard wiki
+description: ""
+tags:
+- mikrotik
+- routerboard
+- router
+- routeros
+examples:
+  ipv6 nd: neighbour discovery manual
+tests: []

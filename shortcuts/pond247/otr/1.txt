@@ -1,0 +1,1 @@
+http://epg.onlinetvrecorder.com/broadcasts/search?wish=&searchterm={%query}&eu_stations=1&us_stations=1&sender=&beginn=&weekday=&typ=&repeat=1&search=Suche&future=1

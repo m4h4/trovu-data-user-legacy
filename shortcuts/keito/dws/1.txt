@@ -1,0 +1,1 @@
+http://www.google.com/custom?domains=wiki.d-addicts.com&q={%query}&sitesearch=wiki.d-addicts.com

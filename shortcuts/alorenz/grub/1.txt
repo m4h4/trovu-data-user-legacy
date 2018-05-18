@@ -1,0 +1,1 @@
+http://www.supergrubdisk.org/wiki/Special:Search?search={%query}&go=Seite

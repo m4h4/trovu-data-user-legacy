@@ -1,0 +1,1 @@
+http://www.encyclopediadramatica.com/Special:Search?go=Go&search={%name}

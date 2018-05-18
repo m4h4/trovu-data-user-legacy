@@ -1,0 +1,1 @@
+https://wiki.liip.ch/dosearchsite.action?queryString={%query}

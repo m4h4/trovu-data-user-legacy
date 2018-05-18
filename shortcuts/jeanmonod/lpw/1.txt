@@ -1,0 +1,1 @@
+https://projects.liip.ch/display/{%query}/Home

@@ -1,0 +1,1 @@
+https://bugs.maemo.org/buglist.cgi?quicksearch={%query}

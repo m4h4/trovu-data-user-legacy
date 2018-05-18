@@ -1,0 +1,1 @@
+http://reiseauskunft.bahn.de/bin/query.exe/dl?S=golm%21&Z={%Ziel}&start=1

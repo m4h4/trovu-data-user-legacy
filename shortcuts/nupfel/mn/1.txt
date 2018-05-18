@@ -1,0 +1,1 @@
+http://www.mailinator.com/inbox.jsp?to={%query}

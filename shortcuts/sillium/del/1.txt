@@ -1,0 +1,1 @@
+http://del.icio.us/search/?fr=del_icio_us&p={%query}&type=user

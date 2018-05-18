@@ -1,0 +1,1 @@
+https://youtubeproxy.org/default.aspx?prx={%query}

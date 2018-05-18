@@ -1,0 +1,10 @@
+title: MVV ab Stiftsbogen
+description: ""
+tags:
+- bahn
+- travel
+- münchen
+- mvv
+examples:
+  petershausen,10,30: Nächste Verbindung nach Petershausen um 10.30 Uhr
+tests: []

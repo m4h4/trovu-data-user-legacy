@@ -1,0 +1,8 @@
+title: Google News
+description: ""
+tags:
+- news
+- google
+examples:
+  obama: Search Google News for obama
+tests: []

@@ -1,0 +1,1 @@
+http://reiseauskunft.bahn.de/bin/query.exe/d?S={%Start}&Z={%Ziel}&start=1&REQ0Tariff_TravellerReductionClass.1=2&REQ0Tariff_Class=2&start=1&existOptimizePrice=0

@@ -1,0 +1,1 @@
+http://www.google.com/search?hl=de&q=ubuntu%20{%query}&ie=utf-8

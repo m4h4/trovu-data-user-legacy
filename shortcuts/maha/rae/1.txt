@@ -1,0 +1,1 @@
+http://buscon.rae.es/drae/?val={%query}&val_aux=&origen=REDRAE

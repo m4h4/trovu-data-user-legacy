@@ -1,0 +1,1 @@
+http://www.goodreads.com/search?utf8=✓&query={%query}

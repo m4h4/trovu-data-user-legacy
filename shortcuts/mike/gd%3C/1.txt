@@ -1,0 +1,1 @@
+http://maps.google.com/maps?hl={$language}&saddr={%from}&daddr=Scharnweberstr+36+10247+Berlin

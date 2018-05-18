@@ -1,0 +1,1 @@
+http://reiseauskunft.bahn.de/bin/query.exe/d?S=landsberger%2Fpetersburger%21&Z={%Ziel}&T={%Zeit}&start=1

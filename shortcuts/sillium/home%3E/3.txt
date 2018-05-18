@@ -1,0 +1,1 @@
+http://reiseauskunft.bahn.de/bin/query.exe/d?S=poststadion%2C+bonn&Z={%Ziel}&T={%Zeit}&D={%Datum}&start=1

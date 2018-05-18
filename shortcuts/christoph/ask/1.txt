@@ -1,0 +1,1 @@
+http://de.ask.com/web?q={%query}&l=dir&qsrc=2376

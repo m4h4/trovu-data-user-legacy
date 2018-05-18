@@ -1,0 +1,1 @@
+https://jira.liip.ch/browse/{%query}

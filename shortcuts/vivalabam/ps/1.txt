@@ -1,0 +1,1 @@
+http://www.smarty.net/manual/de/search.php?query={%suche}

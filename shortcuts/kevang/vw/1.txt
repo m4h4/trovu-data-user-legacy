@@ -1,0 +1,1 @@
+http://verben.texttheater.net/index.php?title=Spezial%3ASuche&search={%query}

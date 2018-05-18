@@ -1,0 +1,1 @@
+https://sks-keyservers.net/pks/lookup?op=vindex&search={%query}&fingerprint=on

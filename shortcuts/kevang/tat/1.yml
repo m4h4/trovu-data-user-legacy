@@ -1,0 +1,11 @@
+title: Tatoeba
+description: ""
+tags:
+- langugage
+- phrases
+- phrasebook
+- dictionary
+- languages
+examples:
+  not at all: search for translation of the phrase "not at all"
+tests: []

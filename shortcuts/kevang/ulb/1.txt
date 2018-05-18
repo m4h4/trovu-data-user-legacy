@@ -1,0 +1,1 @@
+https://katalog.ulb.hhu.de/Search/Results?lng=de&type=AllFields&lookfor={%query}

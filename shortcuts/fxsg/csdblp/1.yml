@@ -1,0 +1,7 @@
+title: CompleteSearch DBLP
+description: ""
+tags:
+- academia
+examples:
+  Alan M. Turing: Search for "Alan M. Turing"
+tests: []

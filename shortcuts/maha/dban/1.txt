@@ -1,0 +1,1 @@
+http://reiseauskunft.bahn.de/bin/bhftafel.exe/dn?input={%Bahnhof}&boardTyp=arr&time=actual&start=Anzeigen

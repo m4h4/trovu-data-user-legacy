@@ -1,0 +1,1 @@
+http://gerhard.mediagonal.ch/redirect.php?link={%query}

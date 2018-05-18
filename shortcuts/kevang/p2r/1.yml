@@ -1,0 +1,9 @@
+title: Page2RSS
+description: ""
+tags:
+- rss
+- feed
+- changes
+examples:
+  http://www.cs.rochester.edu/~tetreaul/conferences.html: monitor changes on http://www.cs.rochester.edu/~tetreaul/conferences.html
+tests: []

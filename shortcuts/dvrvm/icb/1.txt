@@ -1,0 +1,1 @@
+http://www.infochembio.ethz.ch/fmi/xsl/zs_result_de.xsl?-grammar=fmresultset&-db=Serials&-lay=WWW_ejournals&Serials::Reihe%20Titel.op=bw&Serials::Reihe%20Titel={%query}&Serials%20Bestand::Medium=Web-Full&-token.class=Suchresultat&-sortfield.1=Serials::Kurztitel&-sortorder.1=ascend&-max=all&-find=suchen&-lop=and

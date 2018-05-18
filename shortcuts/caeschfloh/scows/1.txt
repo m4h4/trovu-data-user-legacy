@@ -1,0 +1,1 @@
+https://swisscows.ch/?query={%query}

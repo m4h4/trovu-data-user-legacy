@@ -1,0 +1,10 @@
+title: Goodreads
+description: ""
+tags:
+- books
+- reading
+- literature
+- social network
+examples:
+  discworld: search for Discworld novels on Goodreads
+tests: []

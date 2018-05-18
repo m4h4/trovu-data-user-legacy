@@ -1,0 +1,1 @@
+https://euler.mathematik.tu-chemnitz.de/numawiki/index.php?title=Special:Search&search={%query}&go=Go

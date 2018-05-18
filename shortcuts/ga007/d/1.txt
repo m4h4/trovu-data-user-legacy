@@ -1,0 +1,1 @@
+http://www.duden-suche.de/suche/trefferliste.php?suchbegriff[AND]={%query}&suche=homepage&treffer_pro_seite=10&modus=title&level=125&x=0&y=0

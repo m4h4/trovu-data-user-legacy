@@ -1,0 +1,1 @@
+https://www.passmark.com/search/zoomsearch.php?zoom_query={%query}

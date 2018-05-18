@@ -1,0 +1,1 @@
+http://verben.texttheater.de/index.php?title={%title}&action=edit

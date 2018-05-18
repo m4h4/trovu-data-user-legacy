@@ -1,0 +1,1 @@
+http://www.vandale.nl/opzoeken?pattern={%word}&lang=nn

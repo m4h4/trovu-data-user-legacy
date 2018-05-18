@@ -1,0 +1,1 @@
+http://www.apple.com/chde/search/?q={%query}

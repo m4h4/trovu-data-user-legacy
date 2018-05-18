@@ -1,0 +1,9 @@
+title: Osiander-Suche, ISBN13
+description: ""
+tags:
+- books
+- onlinestore
+- isbn13
+examples:
+  9783442453023: Sucht nach einem bestimmten Buch
+tests: []

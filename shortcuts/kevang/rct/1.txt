@@ -1,0 +1,1 @@
+http://www.trainrobots.com/command.jsp?id={%command_id}

@@ -1,0 +1,1 @@
+http://www.googlonymous.com/?type=web&q={%query}

@@ -1,0 +1,1 @@
+http://www.saiga-jp.com/cgi-bin/dic.cgi?m=search&sc=0&f=0&j={%query}

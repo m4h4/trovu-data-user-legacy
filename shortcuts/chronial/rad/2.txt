@@ -1,0 +1,1 @@
+http://radl-routing.mdeport.de/cgi-bin/Radlrouting?speed=15&start={%start}&ziel={%ziel}

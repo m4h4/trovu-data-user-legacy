@@ -1,0 +1,1 @@
+http://www.google.ch/search?hl=en&site=&q={%query}

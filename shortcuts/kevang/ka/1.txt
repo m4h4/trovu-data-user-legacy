@@ -1,0 +1,1 @@
+http://kahina.org/trac/wiki/{%wikipage}

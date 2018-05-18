@@ -1,0 +1,1 @@
+http://pda.leo.org/?lp={%lang}de&lang=de&searchLoc=0&cmpType=relaxed&relink=off&sectHdr=on&spellToler=&search={%word}

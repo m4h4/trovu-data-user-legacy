@@ -1,0 +1,1 @@
+http://images.google.de/images?hl=de&q={%query}&btnG=Bilder-Suche&gbv=2

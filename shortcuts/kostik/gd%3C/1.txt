@@ -1,0 +1,1 @@
+http://maps.google.com/maps?hl={$language}&f=d&saddr={%start}&daddr=berlin, kochhannstr. 38

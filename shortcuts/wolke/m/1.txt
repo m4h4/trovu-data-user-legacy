@@ -1,0 +1,1 @@
+http://supportnet.mentor.com/search/index.cfm?allproducts=true&search_text={%query}

@@ -1,0 +1,1 @@
+http://guildwars.wikia.com/wiki/{%query}

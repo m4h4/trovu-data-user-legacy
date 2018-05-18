@@ -1,0 +1,1 @@
+https://register.dpma.de/DPMAregister/marke/einsteiger#serchilo[fill][%23wm]= {%query}&serchilo[submit]=%23rechercheStarten

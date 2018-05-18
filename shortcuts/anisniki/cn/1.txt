@@ -1,0 +1,1 @@
+http://canoo.net/inflection/{%query}:N:F

@@ -1,0 +1,1 @@
+http://www.geofox.de/base/showPersonalSchedule.do?startName={%Start}&destName=hob&search=Suche+starten

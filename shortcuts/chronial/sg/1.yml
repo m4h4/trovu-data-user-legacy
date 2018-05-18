@@ -1,0 +1,6 @@
+title: Sourcegraph
+description: ""
+tags: []
+examples:
+  sub: Search for the re.sub function of python on sourcegraph
+tests: []

@@ -1,0 +1,1 @@
+http://wind.met.fu-berlin.de/wind/radar/loop_radar200.php

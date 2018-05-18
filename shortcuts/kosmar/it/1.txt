@@ -1,0 +1,1 @@
+http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStoreServices.woa/wa/itmsSearch?WOURLEncoding=ISO8859_1&lang=1&output=lm&partnerId=2003&TD_PARAM=http%3A%2F%2Fclk.tradedoubler.com%2Fclick%3Fp%3D23761%26a%3D1111309%26url%3D&country=DE&term={%query}&media=all

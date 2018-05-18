@@ -1,0 +1,7 @@
+title: Telefonbuch-Inverssuche mit Ortsnamen
+description: ""
+tags:
+- phone
+examples:
+  01705552342, Köln: number, town
+tests: []

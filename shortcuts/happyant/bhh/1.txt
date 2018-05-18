@@ -1,0 +1,1 @@
+https://shop.flixbus.de/search?adults=1&children=0&bikes=0&departureStation=1&arrivalStation=&departureCity=88&arrivalCity=118&rideDate={%Datum|type=date|output=d.n.Y}&oneway=&form_build_id=form-nc2dzcK3Mxn925qf7CBFTdusy8Mwvd6uAfHr8OVNnwM&form_id=fb_search_form_main

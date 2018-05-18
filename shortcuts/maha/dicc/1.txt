@@ -1,0 +1,1 @@
+http://www.diccionarios.com/detalle.php?palabra={%palabra}&Buscar.x=58&Buscar.y=17&Buscar=submit&dicc_100=on&dicc_55=on&dicc_100=on&dicc_55=on&dicc_55=on

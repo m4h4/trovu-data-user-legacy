@@ -1,0 +1,1 @@
+http://ethz.expereact.com/quicksearch?query={%query}

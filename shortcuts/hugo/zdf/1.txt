@@ -1,0 +1,1 @@
+http://www.zdf.de/form/globale-suche-10.html?text={%query}&Suchen=&action=search

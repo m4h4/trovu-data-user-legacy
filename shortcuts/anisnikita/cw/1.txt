@@ -1,0 +1,1 @@
+http://canoo.net/services/Controller?dispatch=inflection&input={%mot}&features=%28Cat+N%29%28Gender+M%29&country=D&lookup=caseInSensitive

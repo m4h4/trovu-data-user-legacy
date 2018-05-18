@@ -1,0 +1,9 @@
+title: Amazon.de
+description: ""
+tags:
+- amazon
+- shopping
+- books
+examples:
+  goethe: Suche auf Amazon.de nach "goethe"
+tests: []

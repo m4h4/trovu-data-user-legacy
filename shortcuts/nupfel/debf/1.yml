@@ -1,0 +1,10 @@
+title: debian package file content search
+description: ""
+tags:
+- debian
+- package
+- dpkg
+- deb
+examples:
+  /bin/silk: 'find packages containing a file ending in /bin/silk '
+tests: []

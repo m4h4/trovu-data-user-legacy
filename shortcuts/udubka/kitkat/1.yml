@@ -1,0 +1,9 @@
+title: Suche im KIT-Katalog
+description: ""
+tags:
+- kit
+- kit bibliothek
+- kit primo
+examples:
+  xml: 'search for all XML books '
+tests: []

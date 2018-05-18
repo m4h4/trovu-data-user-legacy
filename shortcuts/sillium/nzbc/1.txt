@@ -1,0 +1,1 @@
+http://www.nzbclub.com/nzbsearch.aspx?ss={%suche}&ed=10&rpp=50&rs=1

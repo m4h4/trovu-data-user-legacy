@@ -1,0 +1,1 @@
+http://www.amazon.de/s/?ie=UTF8&index=blended&keywords={%query}

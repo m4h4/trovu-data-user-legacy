@@ -1,0 +1,1 @@
+https://eu3.startpage.com/do/search?q={%query}

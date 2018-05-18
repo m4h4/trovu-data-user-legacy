@@ -1,0 +1,1 @@
+http://www.sec.gov/cgi-bin/browse-edgar?owner=exclude&action=getcompany&type={%type}&company={%company}

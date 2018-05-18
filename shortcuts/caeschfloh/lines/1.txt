@@ -1,0 +1,1 @@
+http://www.linguee.de/deutsch-spanisch/search?source=auto&query={%phrase}

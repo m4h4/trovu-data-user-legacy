@@ -1,0 +1,1 @@
+http://warframe.wikia.com/wiki/{%query}

@@ -1,0 +1,1 @@
+http://www.fahrinfo-berlin.de/fahrinfo/bin/query.exe/d?S=hermannplatz%21&Z={%Ziel}&start=1

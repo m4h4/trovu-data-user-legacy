@@ -1,0 +1,1 @@
+http://noticias.tarija.bo/?submit=&s={%consulta}

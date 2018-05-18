@@ -1,0 +1,1 @@
+http://www.torrentreactor.net/search.php?words={%query}&cid=&sid=&type=1&exclude=&search=&orderby=a.seeds&asc=0&x=11&y=10

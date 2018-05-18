@@ -1,0 +1,1 @@
+http://german-bash.org/action/browse/page/{%query}

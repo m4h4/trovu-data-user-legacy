@@ -1,0 +1,1 @@
+http://projects.henara.de/projects/{%Projekt|map:phy=Physio|map:adh=adh-abrechnungszentrum|map:ato=atotech-messdatentransfer-sap}/issues/new

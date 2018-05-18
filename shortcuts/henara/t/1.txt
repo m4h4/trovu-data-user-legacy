@@ -1,0 +1,1 @@
+http://projects.henara.de/issues/{%ticketnummer}

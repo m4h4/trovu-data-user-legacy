@@ -1,0 +1,1 @@
+https://www.bundesanzeiger.de/ebanzwww/wexsservlet#serchilo[fill][%23genericsearch_param\.fulltext]={%query}&serchilo[submit]=input[type=submit]

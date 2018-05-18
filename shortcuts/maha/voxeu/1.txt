@@ -1,0 +1,1 @@
+http://diccionaris.cat/?diccionario=97&empieza=empieza&palabra={%hitz}&imprimir=N

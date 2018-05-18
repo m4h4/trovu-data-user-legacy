@@ -1,0 +1,1 @@
+http://nzbmatrix.com/nzb-search.php?search={%suche}&cat=6&sort=8&type=asc

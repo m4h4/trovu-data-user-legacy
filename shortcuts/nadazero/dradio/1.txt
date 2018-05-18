@@ -1,0 +1,1 @@
+http://www.deutschlandradiokultur.de/programmvorschau.282.de.html?drbm:date={%date|type=date|output=d.m.Y}

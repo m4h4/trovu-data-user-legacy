@@ -1,0 +1,1 @@
+https://otrs.schnell-im-netz.de/otrs/index.pl?Action=AgentTicketSearch&Subaction=Search&Title={%query}

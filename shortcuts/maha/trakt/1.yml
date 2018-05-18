@@ -1,0 +1,9 @@
+title: Trakt
+description: search for film or tv show
+tags:
+- search engine
+- tv
+- film
+examples:
+  trakt film: Search Trakt for "trakt film or tv show"
+tests: []

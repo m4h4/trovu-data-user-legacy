@@ -1,0 +1,1 @@
+http://diccionaris.cat/?diccionario=74&empieza=empieza&palabra={%paraula}&imprimir=N

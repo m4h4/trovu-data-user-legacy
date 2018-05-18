@@ -1,0 +1,1 @@
+http://macupdate.com/search.php?keywords={%keyword}&os=macosx

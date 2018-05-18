@@ -1,0 +1,1 @@
+http://photo.wenn.com/index.php?action=search&criteria_regular=is&field=caption%2Bkeywords&start=1&st=1&type=grid&repository=1&search_regular={%query}&submit=+Search+

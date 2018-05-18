@@ -1,0 +1,1 @@
+http://www.prweb.com/search.aspx?search-releases={%query}&hitsPerPage=100&x=0&y=0

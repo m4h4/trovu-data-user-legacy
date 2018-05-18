@@ -1,0 +1,7 @@
+title: Rubygems Search
+description: ""
+tags:
+- ruby gem
+examples:
+  query: Search for a gem called 'query' on rubygems.org
+tests: []

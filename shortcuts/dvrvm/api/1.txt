@@ -1,0 +1,1 @@
+http://api.drupal.org/api/search/6/{%query}

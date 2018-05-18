@@ -1,0 +1,10 @@
+title: Google Maps Directions (Routing)
+description: ""
+tags:
+- maps
+- google
+- routing
+- route
+examples:
+  hamburg DE: Search for "hamburg DE"
+tests: []

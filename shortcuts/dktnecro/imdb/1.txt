@@ -1,0 +1,1 @@
+http://www.imdb.de/find?s=all&q={%query}

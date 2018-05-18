@@ -1,0 +1,1 @@
+http://www.ted.com/index.php/search?q={%query}&x=0&y=0

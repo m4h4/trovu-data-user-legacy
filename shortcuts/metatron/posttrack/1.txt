@@ -1,0 +1,1 @@
+https://service.post.ch/EasyTrack/submitParcelData.do?formattedParcelCodes={%query}&from_directentry=True&directSearch=false&p_language=de&VTI-GROUP=1&lang=de&service=ttb

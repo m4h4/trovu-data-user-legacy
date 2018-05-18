@@ -1,0 +1,1 @@
+https://www.xing.com/app/search?op=universal&universal={%query}

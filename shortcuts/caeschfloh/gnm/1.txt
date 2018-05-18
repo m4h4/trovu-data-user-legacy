@@ -1,0 +1,1 @@
+https://www.google.com/m/search?pz=1&tbm=nws&cf=all&ned=de&hl=de&q={%query}

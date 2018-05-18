@@ -1,0 +1,1 @@
+http://cms.imwa.info/component/search/?searchword={%query}&ordering=&searchphrase=all

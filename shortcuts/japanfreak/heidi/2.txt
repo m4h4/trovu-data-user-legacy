@@ -1,0 +1,1 @@
+http://katalog.ub.uni-heidelberg.de/cgi-bin/search.cgi?fsubmit=1&kat1=freitext&var1=&op1=AND&kat2=ti&var2={%Titel}&op2=AND&kat3=au&var3={%Autor}&sess=dea9b9b36761b697aaa4faee2a54ca2a&sprache=GER&art=f&sort=0&opt=&teil=&teil2=Z21&pagesize=50&vr=on

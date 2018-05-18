@@ -1,0 +1,1 @@
+https://www.google.es/search?hl={$language}&q={%query|encoding=none}&ie=utf-8

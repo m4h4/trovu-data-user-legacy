@@ -1,0 +1,1 @@
+http://www.xe.com/ucc/convert.cgi?Amount={%query}&From=USD&To=NOK

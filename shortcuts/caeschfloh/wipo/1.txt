@@ -1,0 +1,1 @@
+https://patentscope.wipo.int/search/en/search.jsf#serchilo[fill][%23simpleSearchSearchForm\:fpSearch]={%query}&serchilo[submit]=%23simpleSearchSearchForm\:commandSimpleFPSearch

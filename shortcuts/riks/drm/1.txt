@@ -1,0 +1,1 @@
+http://drupal.org/project/modules/{%query}?f[0]=bs_project_sandbox%3A0&solrsort=iss_project_release_usage desc

@@ -1,0 +1,1 @@
+https://duckduckgo.com/?q={%query}&t=h_&iax=1&ia=images

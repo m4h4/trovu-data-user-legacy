@@ -1,0 +1,1 @@
+http://www.top7mp3.com/search?q={%SongOrGroup}

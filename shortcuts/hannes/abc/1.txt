@@ -1,0 +1,1 @@
+http://www.brandenburg-abc.de/veranstaltungen/rubrik.php?nummer=10&beginn={%Datum|type=date|output=Y-m-d}&ende={%Datum|type=date|output=Y-m-d}

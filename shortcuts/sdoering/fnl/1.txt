@@ -1,0 +1,1 @@
+http://lexikon.freenet.de/{%query}

@@ -1,0 +1,1 @@
+http://lema.rae.es/desen/?key={%query}

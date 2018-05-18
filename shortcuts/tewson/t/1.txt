@@ -1,0 +1,1 @@
+http://dict.longdo.com/search/{%query}

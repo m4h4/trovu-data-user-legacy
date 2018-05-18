@@ -1,0 +1,1 @@
+http://www.braunschweiger-verkehrs-ag.de/fahrplan.html?itdLPxx_transpCompany=bsvag&language=de&odvMacroBSVAG=true&qqueryMacroBSVAG=true&name_origin={%Start}&name_destination={%Ziel}

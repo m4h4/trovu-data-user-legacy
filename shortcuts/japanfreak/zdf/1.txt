@@ -1,0 +1,1 @@
+http://www.zdf.de/ZDFde/erweitert_suche.html?pn=1&kw={%Suchwort}&st=include&kategorie=gesamtzdf&unterkategorie=alle&mediaType=VI&zr=7tage&o=date&rpp=50&search-go=Suche

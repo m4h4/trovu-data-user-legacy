@@ -1,0 +1,1 @@
+http://www.vbb-fahrinfo.de/hafas/query.exe/dox?ld=&searchMode=ADVANCED&S={%Start}&Z={%Ziel}&start=1&REQ0JourneyStopsSA1=3&REQ0JourneyStopsZA1=3&start=1

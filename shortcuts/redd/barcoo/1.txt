@@ -1,0 +1,1 @@
+http://www.barcoo.com/product_search/extern_term?search[term]={%1}

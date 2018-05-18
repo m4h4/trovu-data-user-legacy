@@ -1,0 +1,9 @@
+title: Amazon.com
+description: ""
+tags:
+- amazon
+- shopping
+- books
+examples:
+  shakespeare: Search for "shakespeare"
+tests: []

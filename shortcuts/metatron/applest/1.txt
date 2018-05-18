@@ -1,0 +1,1 @@
+http://store.apple.com/ch-de/search?find={%query}

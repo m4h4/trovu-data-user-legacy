@@ -1,0 +1,1 @@
+http://mercurylang.org/information/doc-release/mercury_library/{%modulename}.html

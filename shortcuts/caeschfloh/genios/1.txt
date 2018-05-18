@@ -1,0 +1,1 @@
+https://www.genios.de/dosearch?explicitSearch=true&q={%query}

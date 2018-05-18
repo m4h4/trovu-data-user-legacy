@@ -1,0 +1,1 @@
+http://www.trackntrace.de/?id={%Sendungsnummer}&plz={%PLZ}

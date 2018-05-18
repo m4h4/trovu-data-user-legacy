@@ -1,0 +1,1 @@
+http://dict.leo.org/ende/index_de.html#/search={%query}&searchLoc=0&resultOrder=basic&multiwordShowSingle=on

@@ -1,0 +1,1 @@
+http://uranus.fiehnlab.ucdavis.edu:8080/cts/search/index?query={%query}&_action_textSearch=Search

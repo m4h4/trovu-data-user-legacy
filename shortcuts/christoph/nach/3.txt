@@ -1,0 +1,1 @@
+http://www.vbb-fahrinfo.de/hafas/query.exe/d?S={s+buch!|iso-8859-1}&Z={{%Ziel}!|iso-8859-1}&T={%Zeit}&D={%Datum}&start=1

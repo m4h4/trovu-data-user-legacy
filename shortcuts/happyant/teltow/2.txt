@@ -1,0 +1,1 @@
+http://fahrinfo.bvg.de/Fahrinfo/bin/?start=1&timesel=arrive&from=S%20%Babelsberg%20%Schulstr!&to=Teltow%20%Warthestr!&date={%Datum}&time={%Ankunftszeit}

@@ -1,0 +1,1 @@
+http://efa.mvv-muenchen.de/index.html?name_origin=1520&name_destination=460&itdTimeHour={%Stunde}&itdTimeMinute={%Minute}

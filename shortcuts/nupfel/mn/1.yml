@@ -1,0 +1,8 @@
+title: mailinator
+description: ""
+tags:
+- mail
+- spam
+examples:
+  test: Search for "test"
+tests: []

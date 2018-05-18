@@ -1,0 +1,1 @@
+http://reiseauskunft.bahn.de/bin/query.exe/d?S=reutlingen&Z={%Ziel}&start=1

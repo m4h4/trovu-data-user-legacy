@@ -1,0 +1,1 @@
+https://www.google.de/search?hl=de&q=Dresden%20tel%20{%query|encoding=iso-8859-1}&cad=h

@@ -1,0 +1,9 @@
+title: IACR Cryptology ePrint Archive
+description: ""
+tags:
+- academia
+examples:
+  random oracle: Search IACR Cryptology ePrint Archive for "random oracle"
+tests:
+  Incoercible Multiparty Computation: 1996/001
+  Lorem ipsum dolor sit amet: No reports found.

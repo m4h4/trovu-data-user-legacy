@@ -1,0 +1,1 @@
+http://delicious.com/search?p={%query}&chk=&fr=del_icio_us&lc=1&atags=&rtags=&context=userposts|texttheater|

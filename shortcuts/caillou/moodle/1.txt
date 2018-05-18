@@ -1,0 +1,1 @@
+http://docs.moodle.org/en/index.php?title=Special:Search&ns100=1&search={%search}&fulltext=Advanced+search

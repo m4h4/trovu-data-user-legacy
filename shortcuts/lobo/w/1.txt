@@ -1,0 +1,1 @@
+https://www.warez-bb.org/search.php?search_keywords={%query}&search_fields=titleonly&search_terms=all
