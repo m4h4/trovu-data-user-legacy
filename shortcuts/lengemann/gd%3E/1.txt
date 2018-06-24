@@ -1,1 +1,0 @@
-http://maps.google.com/maps?hl={$language}&f=d&saddr=Tribünenbusch+28+Celle&daddr={%destination}

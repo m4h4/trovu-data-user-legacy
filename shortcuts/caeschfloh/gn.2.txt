@@ -1,0 +1,1 @@
+https://news.google.com/search?hl={%lg}&gl={%lg}&ceid={%lg}:{%lg}&q={%query}

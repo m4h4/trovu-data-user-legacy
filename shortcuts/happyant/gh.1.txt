@@ -1,0 +1,1 @@
+https://fahrinfo.bvg.de/Fahrinfo/bin/?start=1&timesel=depart&from=%22Gransee%2C%20Bahnhof%22%21&to=Potsdam%20Hbf%21&time={%Abfahrtszeit|encoding=iso-8859-1}%3A00

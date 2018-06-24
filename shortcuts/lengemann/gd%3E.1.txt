@@ -1,0 +1,1 @@
+http://maps.google.com/maps?hl={$language}&f=d&saddr=Trumannskamp+21+Celle&daddr={%destination}
