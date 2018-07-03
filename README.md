@@ -8,3 +8,4 @@ To use them:
 - clone this repo
 - from this repo, copy the files from your dir into your foked `trovu-data-user`
 - commit and push your `trovu-data-user` fork
+- follow the instructions in the [trovu-data-user](https://github.com/trovu/trovu-data-user) README.
